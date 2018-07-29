@@ -3,7 +3,7 @@ def valid_move?(position_taken,index,board)
    if index > 8 or index < 0
      false
 
-   elsif position_taken == false && board == [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+   elsif position_taken == false && board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
     true
 
     end
