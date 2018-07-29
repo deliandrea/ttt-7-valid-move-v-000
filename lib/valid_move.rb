@@ -1,5 +1,5 @@
 # code your #valid_move? method here
-def valid_move(position_taken,index)
+def valid_move?(position_taken,index)
    if index > 8 or index < 0
      false
    elsif
