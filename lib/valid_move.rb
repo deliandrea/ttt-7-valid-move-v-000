@@ -2,7 +2,7 @@
 def valid_move(position_taken)
    if index > 8
      nil
-  
+
     end
 end
 
