@@ -4,7 +4,7 @@ def valid_move?(position_taken,index)
      false
 if position_taken = true
   false
-  
+
    elsif
      true
     end
