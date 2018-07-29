@@ -2,9 +2,8 @@
 def valid_move(position_taken)
    if index > 8
      false
-     
-
-    
+   else
+     true
 
     end
 end
