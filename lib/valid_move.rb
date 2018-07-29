@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move?(position_taken,index,board)
-   if index > 8 or index < 0
+   if index > 8 or index < 0 && !posiion_taken(board,index)
      false
 
    elsif position_taken(board,index) == false && board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
