@@ -3,11 +3,6 @@ def valid_move(position_taken)
    if index > 9
      nil
   
-
-    if position_taken == true
-        execute something
-    else
-        execute something else
     end
 end
 
