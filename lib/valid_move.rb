@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move(position_taken)
-    if position_taken?
+    if position_taken == true
         execute something
     else
         execute something else
