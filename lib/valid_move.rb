@@ -1,7 +1,9 @@
 # code your #valid_move? method here
 def valid_move(position_taken)
    if index > 8
-     nil
+     valid_move == false
+
+    
 
     end
 end
